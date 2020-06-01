@@ -1,8 +1,10 @@
-# Artifical Intelligence and Machine Learning
+# Artificial Intelligence and Machine Learning
 
 ## Contents
 
-### Atricial Intelligence
-Algorithms
+
+### Artificial Intelligence
+...
 
 ### Machine Learning
+...
