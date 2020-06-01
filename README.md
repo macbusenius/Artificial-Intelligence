@@ -1,10 +1,6 @@
 # Artificial Intelligence and Machine Learning
 
-## Contents
-
-
+## Contents:
 ### Artificial Intelligence
-...
-
 ### Machine Learning
-...
+
