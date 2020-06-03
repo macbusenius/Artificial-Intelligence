@@ -2,6 +2,8 @@
   Artificial Intelligence and Machine Learning
 </h1>
 
+Within this repository there are past and present projects from two of my undergrad classes listed below. In addition to these classes is a project section including projects I am currently working on in my spare time.  
+
 - **Classes Included**: ENSE 496AC Artificial Intelligence/ ENSE496ACD Machine Learning
 - **Projects**: !! TO BE UPDATED !!
 
