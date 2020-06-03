@@ -2,9 +2,8 @@
   Artificial Intelligence and Machine Learning
 </h1>
 
-<p style="font-size:11px">## Contents:</p>
+<p style="font-size:25px">Contents:</p>
 
 
-### Artificial Intelligence
-### Machine Learning
+
 
