@@ -14,9 +14,9 @@
 - **Projects**: !! TO BE UPDATED !!
 
 ## Project Code
-> [Artificial Intelligence](Artificial Intelligence): Find all my AI code here.
-> [Machine Learning](Machine Learning): Find all my ML code here.
-> [Projects](Projects): Find all my AI/ML project code here.
+> [Artificial Intelligence](Artificial Intelligence): Find all my AI code here.  
+> [Machine Learning](Machine Learning): Find all my ML code here.  
+> [Projects](Projects): Find all my AI/ML project code here.  
 
 
 ## System Requirements
