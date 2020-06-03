@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center" style="font-size:100px" >
   #Artificial Intelligence and Machine Learning
-</p>
+</h1>
 
 
 
