@@ -13,8 +13,8 @@
 
 
 ## Project Code
-> [Artificial Intelligence](Artificial_Intelligence): Find all my AI code here.  
-> [Machine Learning](MachineLearning): Find all my ML code here.  
+> [Artificial Intelligence](Artificial-Intelligence): Find all my AI code here.  
+> [Machine Learning](Machine-Learning): Find all my ML code here.  
 > [Projects](Projects): Find all my AI/ML project code here.  
 
 
